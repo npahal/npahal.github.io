@@ -1,0 +1,13 @@
+title: "Nitin Pahal - Portfolio"
+description: "Senior Full-stack Developer & DevOps Engineer"
+author: Nitin Pahal
+baseurl: "" # leave empty for root
+url: "https://[github_username].github.io"
+google_analytics: "G-7K9WYJC6RK"
+
+theme: jekyll-theme-cayman
+
+social_links:
+  linkedin: https://www.linkedin.com/in/npahal/
+  github: https://github.com/[github_username]
+  email: pahal.nitin@gmail.com
